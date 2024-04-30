@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: nowrap;">
+<div style="display: flex; flex-wrap: nowrap;flex-direction: row;">
   <div style="flex: 1; margin-right: 20px;">
     <!-- ASCII art logo -->
     <pre>
