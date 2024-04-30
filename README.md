@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Automation Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Byte-Craftsman-Alpha/](https://github.com/Byte-Craftsman-Alpha/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Byte-Craftsman-Alpha/](https://github.com/Byte-Craftsman-Alpha/)
 
 - 💬 Ask me about **Python, HTML, CSS and JS**
 
