@@ -1,4 +1,4 @@
-<span style="color:red">Your text here</span>
+<span style="color: #ff00ff">Your text here</span>
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
