@@ -1,7 +1,4 @@
 <h2 align="left">Hi 👋! My name is Aditya and I'm a Student with passion of creating something different, from India</h2>
-
-###
-   ```
 <code style="color: #00ff00;">
             .-++=:                Byte-Craftsman-Alpha@ad__nobita<br>
            =+.   -*.              --------------------<br>
@@ -19,4 +16,3 @@
             :**+#-                Email: aditya463615@gmail.com<br>
               =+                  <br>
 </code>
-```html
