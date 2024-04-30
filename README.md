@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋! My name is Aditya and I'm a Student with passion of creating something different, from India</h2>
 
 ###
-
-<div align="left">
                                           .-++=:                                          
                                          =+.   -*.                                        
                                         =+      :*                                        
@@ -18,7 +16,6 @@
                                      ....::.  .::.....                                    
                                           :**+#-                                          
                                             =+                                            
-</div>
 
 ###
 
