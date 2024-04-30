@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: nowrap;">
   <div style="flex: 1; margin-right: 20px;">
     <!-- ASCII art logo -->
     <pre>
@@ -11,7 +11,7 @@
 
     </pre>
   </div>
-  <div style="flex: 2;">
+  <div style="flex: 1;">
     <!-- Details container -->
     <h1>Byte-Craftsman-Alpha@ad__nobita</h1>
     <hr/>
