@@ -7,13 +7,14 @@
 
 - 👯 I’m looking to collaborate on **Automation Projects**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Byte-Craftsman-Alpha/](https://github.com/Byte-Craftsman-Alpha/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Byte-Craftsman-Alpha/)
 
 - 💬 Ask me about **Python, HTML, CSS and JS**
 
 - 📫 How to reach me **aditya463615@gmail.com**
 
 <h3 align="left">Contact Me:</h3>
+
 - [Whatsapp](https://api.whatsapp.com/send?phone=+918317023767)
 - [Instagram](https://www.instagram.com/ad__nobita/)
 - [Telegram](https://t.me/ad_nobita)
