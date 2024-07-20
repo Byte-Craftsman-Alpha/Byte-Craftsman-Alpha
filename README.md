@@ -15,7 +15,7 @@
 
 <h3 align="left">Contact Me:</h3>
 
-- [Whatsapp](https://api.whatsapp.com/send?phone=+918317023767)
+- [Whatsapp](https://wa.me/918317023767/)
 - [Instagram](https://www.instagram.com/ad__nobita/)
 - [Telegram](https://t.me/ad_nobita)
 
