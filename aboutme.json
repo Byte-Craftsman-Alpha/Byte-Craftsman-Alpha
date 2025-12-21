@@ -1,1 +1,137 @@
-
+[
+  {
+    "name":"Aditya Chaudhari",
+    "current_profession": "@mai_aditya_hu",
+    "current_company": "Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur",
+    "resume_link": "https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/15461465/MTU0NjE0NjU=.pdf",
+    "contact": {
+        "phone": "(+91) 83170 23767",
+        "email": "aditya463615@gmail.com"
+    },
+    "address": {
+        "city": "Gorakhpur",
+        "permanent_address": null,
+        "current_address": null
+    },
+    "social_accounts": {
+        "github": "https://github.com/Byte-Craftsman-Alpha",
+        "linkedin": "https://www.linkedin.com/in/byte-craftsman-alpha/",
+        "instagram": "https://www.instagram.com/mai_aditya_hu"
+    },
+    "bio": "I am a B.Tech (IT) student in Information Technology at DDU Gorakhpur University, Gorakhpur. I am passionate about technology and have strong skills in programming, web development, and data analysis. I am proficient in various programming languages, including Python, JavaScript, Dart. I am also familiar with HTML, CSS, browser extension, Web Automation such as Selenium. I am a quick learner and eager to apply my skills to real-world problems. I am also a team player and enjoy working with others to achieve common goals.",
+    "skills": [
+        "Python", "HTML", "CSS", "JavaScript", "Selenium", "SQL/MySQL", "Pandas", "OpenCV", "FastAPI", "Flask", "Transformers", "Matplotlib", "Numpy", "Flutter"
+    ],
+    "experience": [
+        {
+            "company_name": "IET, DDU Gorakhpur University",
+            "post": "Community Management & Data Analyst",
+            "duration": "1 Year"
+        }
+    ],
+    "education": [
+        {
+            "institute_logo": null,
+            "institute_name": "DDU Gorakhpur University",
+            "course_type": "Graduation",
+            "course_name": "B.Tech(IT)",
+            "date": "2024-2028",
+            "score": null,
+            "skill_acquired": ["C", "Python", "Linux", "DSA", "AI/ML"]
+        },
+        {
+            "institute_logo": null,
+            "institute_name": "PG Senior Secondary School",
+            "course_type": "Intermediate",
+            "course_name": null,
+            "date": "2023-2024",
+            "score": {
+                "score_type": "Percentage",
+                "score": 77
+            },
+            "skill_acquired": null
+        },
+        {
+            "institute_logo": null,
+            "institute_name": "PG Senior Secondary School",
+            "course_type": "High School",
+            "course_name": null,
+            "date": "2021-2022",
+            "score": {
+                "score_type": "Percentage",
+                "score": 83
+            },
+            "skill_acquired": null
+        }
+    ],
+    "projects": [
+        {
+            "project_title": "GUI app using Python",
+            "project_type": "Public",
+            "project_description": "Create GUI applications using Python and Flask.",
+            "core_technology": "Python",
+            "project_link": "https://github.com/Byte-Craftsman-Alpha/GUI-App-using-python"
+        },
+        {
+            "project_title": "Local-Messaging App",
+            "project_type": "Public",
+            "project_description": "A web based app for messaging to your clients in LAN.",
+            "core_technology": "Python",
+            "project_link": "https://github.com/Byte-Craftsman-Alpha/Local-Messaging-App"
+        },
+        {
+            "project_title": "OpenCV Face Detection",
+            "project_type": "Public",
+            "project_description": "Face detection from images using openCV with Python.",
+            "core_technology": "Python",
+            "project_link": "https://github.com/Byte-Craftsman-Alpha/open-cv-face-detection"
+        },
+        {
+            "project_title": "Web Automation",
+            "project_type": "Public",
+            "project_description": "Module to automate web tasks using Python script.",
+            "core_technology": "Python",
+            "project_link": "https://github.com/Byte-Craftsman-Alpha/Web-Automation"
+        },
+        {
+            "project_title": "Browser Extension",
+            "project_type": "Private",
+            "project_description": "A browser extension to add new features and exhance browsing experience.",
+            "core_technology": "JavaScript",
+            "project_link": "https://github.com/Byte-Craftsman-Alpha/Web-Extension"
+        }
+    ],
+    "certificates": [
+        {
+            "authority_logo": null,
+            "certificate_name": "Paranox 2.O Hackathon",
+            "issuing_authority": "NewtonsNewton School of Technology",
+            "certified_for": "Finalist"
+        },
+        {
+            "authority_logo": null,
+            "certificate_name": "Arambh Hackathon",
+            "issuing_authority": "IET, DDU Gorakhpur University",
+            "certified_for": "Mentor & Contributer"
+        },
+        {
+            "authority_logo": null,
+            "certificate_name": "Product Management Workshop",
+            "issuing_authority": "IIT Roorkee",
+            "certified_for": "Workshop"
+        },
+        {
+            "authority_logo": null,
+            "certificate_name": "Air Taxi Workshop",
+            "issuing_authority": "India Space Lab",
+            "certified_for": "Workshop"
+        },
+        {
+            "authority_logo": null,
+            "certificate_name": "Data-Science Quiz Competition",
+            "issuing_authority": "IIT Kharagpur",
+            "certified_for": "Qualified"
+        }
+    ]
+  }
+]
