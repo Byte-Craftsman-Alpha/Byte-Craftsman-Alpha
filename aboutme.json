@@ -104,31 +104,31 @@
     ],
     "certificates": [
         {
-            "authority_logo": null,
+            "authority_logo": "https://www.techxninjas.com/assets/techxninjas_logo-Bh_7NDX-.png",
             "certificate_name": "Paranox 2.O Hackathon",
             "issuing_authority": "NewtonsNewton School of Technology",
             "certified_for": "Finalist"
         },
         {
-            "authority_logo": null,
+            "authority_logo": "https://raw.githubusercontent.com/Byte-Craftsman-Alpha/Byte-Craftsman-Alpha.github.io/refs/heads/main/resources/DDUGU.jpeg",
             "certificate_name": "Arambh Hackathon",
             "issuing_authority": "IET, DDU Gorakhpur University",
             "certified_for": "Mentor & Contributer"
         },
         {
-            "authority_logo": null,
+            "authority_logo": "https://raw.githubusercontent.com/Byte-Craftsman-Alpha/Byte-Craftsman-Alpha.github.io/refs/heads/main/resources/iitr_logo.png",
             "certificate_name": "Product Management Workshop",
             "issuing_authority": "IIT Roorkee",
             "certified_for": "Workshop"
         },
         {
-            "authority_logo": null,
+            "authority_logo": "https://raw.githubusercontent.com/Byte-Craftsman-Alpha/Byte-Craftsman-Alpha.github.io/refs/heads/main/resources/ISL.png",
             "certificate_name": "Air Taxi Workshop",
             "issuing_authority": "India Space Lab",
             "certified_for": "Workshop"
         },
         {
-            "authority_logo": null,
+            "authority_logo": "https://raw.githubusercontent.com/Byte-Craftsman-Alpha/Byte-Craftsman-Alpha.github.io/refs/heads/main/resources/IIT_Kharagpur_Logo.png",
             "certificate_name": "Data-Science Quiz Competition",
             "issuing_authority": "IIT Kharagpur",
             "certified_for": "Qualified"
