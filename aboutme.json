@@ -67,18 +67,28 @@
     ],
     "projects": [
         {
-            "project_title": "GUI app using Python",
+            "project_title": "CivicSetu — Citizen-led Civic Issue Reporting and Tracking Platform",
             "project_type": "Public",
-            "project_description": "Create GUI applications using Python and Flask.",
+            "project_description": "CivicSetu is a digital platform that empowers citizens to report local civic issues — such as potholes, broken streetlights, sanitation problems, and infrastructure damage — quickly using GPS location and media uploads. The system generates automated maintenance tickets, enables transparent real-time tracking of complaint status, and fosters faster engagement between residents and authorities for effective resolution.",
             "core_technology": "Python",
-            "project_link": "https://github.com/Byte-Craftsman-Alpha/GUI-App-using-python"
+            "repository": "https://github.com/Byte-Craftsman-Alpha/Road-Maintenance-System"
+            "project_link": "https://civicsetu.pythonanywhere.com/"
         },
         {
-            "project_title": "Local-Messaging App",
+            "project_title": "EduPortal — Student Management System",
             "project_type": "Public",
-            "project_description": "A web based app for messaging to your clients in LAN.",
+            "project_description": "EduPortal is a web-based Student Management System designed to streamline academic administration for educational institutions. It provides secure student login, personalized dashboards, and centralized access to key academic information. The platform facilitates registration, course tracking, and profile management while enhancing communication between students and administrative staff. Built with a focus on usability and efficiency, EduPortal supports scalable user management for modern campus environments.",
             "core_technology": "Python",
-            "project_link": "https://github.com/Byte-Craftsman-Alpha/Local-Messaging-App"
+            "repository": "https://github.com/Byte-Craftsman-Alpha/Edu-Portal.git",
+            "project_link": "https://ietddugu.pythonanywhere.com/"
+        },
+        {
+            "project_title": "MewDrive — Personal Cloud Storage & File Management System",
+            "project_type": "Public",
+            "project_description": "MewDrive is a web-based cloud storage and file management platform that enables users to securely upload, organize, and access their files from any device. The system features authenticated login, user-specific folders, and intuitive dashboard navigation for efficient document control. Designed as a scalable digital storage solution, MewDrive enhances personal and professional file accessibility while maintaining data privacy and structured user management.",
+            "core_technology": "Python",
+            "repository": "https://github.com/Byte-Craftsman-Alpha/Doc-Vault.git",
+            "project_link": "mewdrive.pythonanywhere.com"
         },
         {
             "project_title": "OpenCV Face Detection",
@@ -86,13 +96,6 @@
             "project_description": "Face detection from images using openCV with Python.",
             "core_technology": "Python",
             "project_link": "https://github.com/Byte-Craftsman-Alpha/open-cv-face-detection"
-        },
-        {
-            "project_title": "Web Automation",
-            "project_type": "Public",
-            "project_description": "Module to automate web tasks using Python script.",
-            "core_technology": "Python",
-            "project_link": "https://github.com/Byte-Craftsman-Alpha/Web-Automation"
         },
         {
             "project_title": "Browser Extension",
