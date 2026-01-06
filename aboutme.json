@@ -71,7 +71,7 @@
             "project_type": "Public",
             "project_description": "CivicSetu is a digital platform that empowers citizens to report local civic issues — such as potholes, broken streetlights, sanitation problems, and infrastructure damage — quickly using GPS location and media uploads. The system generates automated maintenance tickets, enables transparent real-time tracking of complaint status, and fosters faster engagement between residents and authorities for effective resolution.",
             "core_technology": "Python",
-            "repository": "https://github.com/Byte-Craftsman-Alpha/Road-Maintenance-System"
+            "repository": "https://github.com/Byte-Craftsman-Alpha/Road-Maintenance-System",
             "project_link": "https://civicsetu.pythonanywhere.com/"
         },
         {
