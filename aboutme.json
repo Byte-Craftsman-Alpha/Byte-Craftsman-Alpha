@@ -88,7 +88,7 @@
             "project_description": "MewDrive is a web-based cloud storage and file management platform that enables users to securely upload, organize, and access their files from any device. The system features authenticated login, user-specific folders, and intuitive dashboard navigation for efficient document control. Designed as a scalable digital storage solution, MewDrive enhances personal and professional file accessibility while maintaining data privacy and structured user management.",
             "core_technology": "Python",
             "repository": "https://github.com/Byte-Craftsman-Alpha/Doc-Vault.git",
-            "project_link": "mewdrive.pythonanywhere.com"
+            "project_link": "https://mewdrive.pythonanywhere.com"
         },
         {
             "project_title": "OpenCV Face Detection",
