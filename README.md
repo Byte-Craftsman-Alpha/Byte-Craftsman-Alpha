@@ -78,8 +78,8 @@ Computer vision project implementing object detection.
 ## 📫 Connect With Me
 
 📧 Email: **aditya463615@gmail.com**  
-📱 Telegram: https://t.me/ad_nobita  
-📷 Instagram: https://www.instagram.com/gloaming_aditya  
+📱 Telegram: https://t.me/mai_aditya_hu  
+📷 Instagram: https://www.instagram.com/mai_aditya_hu  
 
 ---
 
