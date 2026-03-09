@@ -23,7 +23,7 @@ I don’t just write code — I engineer solutions.
 ## 🛠️ Tech Arsenal
 
 ### 💻 Languages
-`Python` • `JavaScript` • `HTML5` • `CSS3`
+`Python` • `C/C++` • `Dart` • `JavaScript` • `HTML5` • `CSS3`
 
 ### ⚙️ Frameworks & Tools
 `Flask` • `WebSocket` • `Selenium` • `OpenCV` • `SQLite` • `Bootstrap`
